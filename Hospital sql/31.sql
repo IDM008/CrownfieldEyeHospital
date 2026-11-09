@@ -1,0 +1,3 @@
+USE CrownfieldEyeHospital;
+
+SHOW TABLES;
